@@ -18,7 +18,7 @@
 - 🌱 正在深入探索 **游戏引擎**（Unreal / Godot）与 **Java 底层原理**  
 - 🎨 喜欢把脑海里的奇怪脑洞变成好玩的游戏玩法  
 - 💬 如果你想聊 **Java 优化**、**MC 模组互通** 或者 **独立游戏立项**，随时找我！  
-- 📫 联系我：**[你的邮箱，例如：kulisaiji@outlook.com]**  
+- 📫 联系我：**[kulisaiji@outlook.com]**  
 
 ---
 
@@ -40,6 +40,7 @@
   <!-- 游戏开发引擎 -->
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <br/>
   <!-- 日常工具 -->
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
@@ -84,14 +85,17 @@
 ## 📫 来和我一起吧！
 
 <p align="left">
-  <a href="https://twitter.com/你的Twitter" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <!-- X (原 Twitter) 账号为 kulisaiji -->
+  <a href="https://twitter.com/kulisaiji" target="blank">
+    <img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://space.bilibili.com/你的B站ID" target="blank">
-    <img src="[https://img.shields.io/badge/B站-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white](https://space.bilibili.com/626010975)" />
+  <!-- B站链接已更新为你提供的 space -->
+  <a href="https://space.bilibili.com/626010975" target="blank">
+    <img src="https://img.shields.io/badge/B站-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" />
   </a>
-  <a href="mailto:klisuaiji@你的邮箱.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <!-- Outlook 邮箱 -->
+  <a href="mailto:kulisaiji@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
 </p>
 
