@@ -60,10 +60,10 @@
 
 ## ⛏️ Featured Mods / Projects
 
-<a href="https://github.com/Klisuaiji/verity-JE">
+<a href="https://github.com/klisuaiji/verity-JE">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=klisuaiji&repo=verity-JE&theme=radical" />
 </a>
-<a href="https://github.com/Klisuaiji/chameleon">
+<a href="https://github.com/klisuaiji/chameleon">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=klisuaiji&repo=chameleon&theme=radical" />
 </a>
 
