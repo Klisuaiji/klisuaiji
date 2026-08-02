@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">🎮 Hi, I'm klisuaiji</h1>
-<h3 align="center">🕹️ 独立游戏开发者 | ⛏️ Minecraft 模组作者 | ☕ Java 工匠</h3>
+<h3 align="center">🕹️ 独立游戏开发者 | ⛏️ Minecraft 模组开发</h3>
 
 <p align="center">
   <!-- 小彩蛋徽章 -->
@@ -45,7 +45,6 @@
   <!-- 日常工具 -->
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
 </p>
 
 ---
@@ -63,10 +62,10 @@
 
 <!-- 把下面 "项目1" 换成你实际的仓库名，比如 "MysticWorld" 或 "MyFirstMod" -->
 <a href="https://github.com/Klisuaiji/verity-JE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=klisuaiji&repo=你的模组仓库1&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=klisuaiji&repo=verity-JE&theme=radical" />
 </a>
-<a href="https://github.com/klisuaiji/你的模组仓库2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=klisuaiji&repo=你的模组仓库2&theme=radical" />
+<a href="https://github.com/Klisuaiji/chameleon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=klisuaiji&repo=chameleon&theme=radical" />
 </a>
 
 ---
