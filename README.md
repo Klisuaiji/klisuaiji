@@ -56,18 +56,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=klisuaiji&theme=radical&hide_border=true&ring=FF8B00&fire=FF8B00" alt="Contribution streak" />
 </p>
 
----
-
-## ⛏️ Featured Mods / Projects
-
-<a href="https://github.com/klisuaiji/verity-JE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=klisuaiji&repo=verity-JE&theme=radical" />
-</a>
-<a href="https://github.com/klisuaiji/chameleon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=klisuaiji&repo=chameleon&theme=radical" />
-</a>
-
----
 
 ## 📫 Let's Connect!
 
