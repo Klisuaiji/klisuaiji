@@ -7,7 +7,7 @@
 
 <p align="center">
   <!-- 小彩蛋徽章 -->
-  <img src="https://img.shields.io/badge/⚡状态-正在挖矿-orange?style=flat&logo=minecraft" />
+  <img src="https://img.shields.io/badge/⚡状态-学习中-orange?style=flat&logo=minecraft" />
 </p>
 
 ---
@@ -52,11 +52,6 @@
 
 ## 📊 GitHub 数据（看看我写了多少 BUG）
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=klisuaiji&show_icons=true&theme=radical&hide_border=true&title_color=FF8B00&icon_color=FF8B00" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klisuaiji&layout=compact&theme=radical&hide_border=true&title_color=FF8B00" />
-</p>
-
 <!-- 因为你是模组作者，加一个火焰连续贡献条会很有感觉 -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=klisuaiji&theme=radical&hide_border=true&ring=FF8B00&fire=FF8B00" alt="连续贡献" />
@@ -67,19 +62,13 @@
 ## ⛏️ 我的精选模组 / 项目
 
 <!-- 把下面 "项目1" 换成你实际的仓库名，比如 "MysticWorld" 或 "MyFirstMod" -->
-<a href="https://github.com/klisuaiji/你的模组仓库1">
+<a href="https://github.com/Klisuaiji/verity-JE">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=klisuaiji&repo=你的模组仓库1&theme=radical" />
 </a>
 <a href="https://github.com/klisuaiji/你的模组仓库2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=klisuaiji&repo=你的模组仓库2&theme=radical" />
 </a>
 
-<!-- 如果暂时还没有公开仓库，可以把上面两行删掉，换成下面的占位 -->
-<!-- 
-<p align="center">
-  <i>🚧 正在开发第一个公开模组，敬请期待...</i>
-</p>
--->
 ---
 
 ## 📫 来和我一起吧！
