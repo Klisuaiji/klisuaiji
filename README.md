@@ -1,105 +1,114 @@
-<!-- 头部：头像 + 标题 + 简介 -->
+<!-- 头部：像素风游戏标题 + 头像 -->
 <p align="center">
-  <img src="https://your-avatar-url.com/avatar.png" width="120" style="border-radius:50%;" />
+  <img src="https://github.com/klisuaiji.png" width="120" style="border-radius:50%;" />
 </p>
 
-<h1 align="center">👋 Hi, I'm [你的名字]</h1>
-<h3 align="center">🚀 全栈开发者 | 热爱开源 | 终身学习者</h3>
+<h1 align="center">🎮 Hi, I'm klisuaiji</h1>
+<h3 align="center">🕹️ 独立游戏开发者 | ⛏️ Minecraft 模组作者 | ☕ Java 工匠</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=你的GitHub用户名&label=访客数量&color=0e75b6&style=flat" alt="访客计数器" />
+  <!-- 访客计数器 -->
+  <img src="https://komarev.com/ghpvc/?username=klisuaiji&label=🎯 模组玩家来访&color=orange&style=flat" />
+  <!-- 小彩蛋徽章 -->
+  <img src="https://img.shields.io/badge/⚡状态-正在挖矿-orange?style=flat&logo=minecraft" />
 </p>
 
 ---
 
-## 🌱 关于我
+## 🧑‍💻 关于我
 
-- 🔭 我目前正在开发 **[项目名称]**  
-- 🌱 正在学习 **[技术/框架]**  
-- 👯 希望参与 **[开源项目/领域]** 的贡献  
-- 💬 问我关于 **[你擅长的技术]** 的问题  
-- 📫 如何联系我：**[邮箱地址]**  
-- ⚡ 趣事：**[一条关于你的小趣事]**
+- 🔭 我目前正在沉迷于 **Minecraft 模组开发**（Forge / Fabric）  
+- 🌱 正在深入探索 **游戏引擎**（Unity / Godot）与 **Java 底层原理**  
+- 🎨 喜欢把脑海里的奇怪脑洞变成好玩的游戏玩法  
+- 💬 如果你想聊 **Java 优化**、**MC 模组互通** 或者 **独立游戏立项**，随时找我！  
+- 📫 联系我：**[你的邮箱，例如：klisuaiji@example.com]**  
+- ⚡ 趣事：我在游戏里建的房子永远比写的代码 BUG 多 🏗️
 
 ---
 
-## 🛠️ 技术栈与工具
+## 🛠️ 我的技术武器库
+
+<!-- 这些徽章专门为 Java / MC 模组 / 游戏开发定制 -->
 
 <p align="left">
-  <!-- 编程语言 -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <!-- 核心语言 -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <br/>
-  <!-- 前端框架 -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <!-- MC 模组生态（重点）-->
+  <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Forge-FF8B00?style=for-the-badge&logo=forge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fabric-1B1B1B?style=for-the-badge&logo=fabric&logoColor=white" />
   <br/>
-  <!-- 后端/数据库 -->
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <!-- 游戏开发引擎 -->
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
   <br/>
-  <!-- 工具/平台 -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <!-- 日常工具 -->
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub 数据
+## 📊 GitHub 数据（看看我写了多少 BUG）
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=klisuaiji&show_icons=true&theme=radical&hide_border=true&title_color=FF8B00&icon_color=FF8B00" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klisuaiji&layout=compact&theme=radical&hide_border=true&title_color=FF8B00" />
 </p>
 
+<!-- 因为你是模组作者，加一个火焰连续贡献条会很有感觉 -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=你的GitHub用户名&theme=radical&hide_border=true" alt="连续贡献" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=klisuaiji&theme=radical&hide_border=true&ring=FF8B00&fire=FF8B00" alt="连续贡献" />
 </p>
 
 ---
 
-## 📌 精选项目
+## ⛏️ 我的精选模组 / 项目
 
-<!-- 替换为自己的项目链接和描述 -->
-<a href="https://github.com/你的用户名/项目1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=你的用户名&repo=项目1&theme=radical" />
+<!-- 把下面 "项目1" 换成你实际的仓库名，比如 "MysticWorld" 或 "MyFirstMod" -->
+<a href="https://github.com/klisuaiji/你的模组仓库1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=klisuaiji&repo=你的模组仓库1&theme=radical" />
 </a>
-<a href="https://github.com/你的用户名/项目2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=你的用户名&repo=项目2&theme=radical" />
+<a href="https://github.com/klisuaiji/你的模组仓库2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=klisuaiji&repo=你的模组仓库2&theme=radical" />
 </a>
+
+<!-- 如果暂时还没有公开仓库，可以把上面两行删掉，换成下面的占位 -->
+<!-- 
+<p align="center">
+  <i>🚧 正在开发第一个公开模组，敬请期待...</i>
+</p>
+-->
 
 ---
 
-## 📫 联系我
+## 🎯 我最近的游戏开发日志
+
+- 🔥 尝试用 Java 复刻经典红石逻辑优化  
+- 🎮 策划一款以“村民革命”为主题的独立小游戏（脑洞中）  
+- 📖 精读《Effective Java》+ 《游戏编程模式》
+
+---
+
+## 📫 来和我一起挖矿（联机）吧！
 
 <p align="left">
   <a href="https://twitter.com/你的Twitter" target="blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/你的LinkedIn" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://space.bilibili.com/你的B站ID" target="blank">
+    <img src="https://img.shields.io/badge/B站-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" />
   </a>
-  <a href="mailto:你的邮箱">
+  <a href="mailto:klisuaiji@你的邮箱.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://你的个人博客.com" target="blank">
-    <img src="https://img.shields.io/badge/博客-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
 </p>
 
 ---
 
-⭐️ **欢迎来我的 GitHub 逛逛，如果觉得有用，请点个 Star！**  
-📝 **本文档会持续更新，以反映我的最新学习进度。**
+⭐️ **欢迎 Star 我的模组仓库，你的支持是我更新的动力！**  
+💡 **Have a nice day, and may your code compile on the first try!** ☕
