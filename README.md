@@ -1,4 +1,3 @@
-<!-- 头部：像素风游戏标题 + 头像 -->
 <p align="center">
   <img src="https://github.com/klisuaiji.png" width="120" style="border-radius:50%;" />
 </p>
@@ -7,8 +6,6 @@
 <h3 align="center">🕹️ 独立游戏开发者 | ⛏️ Minecraft 模组作者 | ☕ Java 工匠</h3>
 
 <p align="center">
-  <!-- 访客计数器 -->
-  <img src="https://komarev.com/ghpvc/?username=klisuaiji&label=🎯 模组玩家来访&color=orange&style=flat" />
   <!-- 小彩蛋徽章 -->
   <img src="https://img.shields.io/badge/⚡状态-正在挖矿-orange?style=flat&logo=minecraft" />
 </p>
@@ -18,11 +15,10 @@
 ## 🧑‍💻 关于我
 
 - 🔭 我目前正在沉迷于 **Minecraft 模组开发**（Forge / Fabric）  
-- 🌱 正在深入探索 **游戏引擎**（Unity / Godot）与 **Java 底层原理**  
+- 🌱 正在深入探索 **游戏引擎**（Unreal / Godot）与 **Java 底层原理**  
 - 🎨 喜欢把脑海里的奇怪脑洞变成好玩的游戏玩法  
 - 💬 如果你想聊 **Java 优化**、**MC 模组互通** 或者 **独立游戏立项**，随时找我！  
-- 📫 联系我：**[你的邮箱，例如：klisuaiji@example.com]**  
-- ⚡ 趣事：我在游戏里建的房子永远比写的代码 BUG 多 🏗️
+- 📫 联系我：**[你的邮箱，例如：kulisaiji@outlook.com]**  
 
 ---
 
@@ -83,25 +79,16 @@
   <i>🚧 正在开发第一个公开模组，敬请期待...</i>
 </p>
 -->
-
 ---
 
-## 🎯 我最近的游戏开发日志
-
-- 🔥 尝试用 Java 复刻经典红石逻辑优化  
-- 🎮 策划一款以“村民革命”为主题的独立小游戏（脑洞中）  
-- 📖 精读《Effective Java》+ 《游戏编程模式》
-
----
-
-## 📫 来和我一起挖矿（联机）吧！
+## 📫 来和我一起吧！
 
 <p align="left">
   <a href="https://twitter.com/你的Twitter" target="blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://space.bilibili.com/你的B站ID" target="blank">
-    <img src="https://img.shields.io/badge/B站-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" />
+    <img src="[https://img.shields.io/badge/B站-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white](https://space.bilibili.com/626010975)" />
   </a>
   <a href="mailto:klisuaiji@你的邮箱.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
