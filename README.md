@@ -1,92 +1,118 @@
-<p align="center">
-  <img src="https://github.com/klisuaiji.png" width="140" style="border-radius:50%;" alt="klisuaiji"/>
-</p>
+# 👋 Hi, I'm Klisuaiji
 
-<h1 align="center">Hi, I'm klisuaiji 👋</h1>
+<p align="center"><img src="https://github.com/klisuaiji.png" width="120" alt="Klisuaiji avatar"/></p>
 
-<p align="center">
-  <a href="https://github.com/klisuaiji">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8B00&center=true&vCenter=true&random=false&width=500&lines=Indie+Game+Dev+%7C+Minecraft+Modder;Turning+weird+ideas+into+fun+mechanics;May+your+code+compile+on+the+first+try" alt="Typing SVG"/>
-  </a>
-</p>
+<p align="center"><strong>Indie Developer · Minecraft Modder · AI Tool Builder</strong></p>
+<p align="center">I build weird ideas into things you can actually play, use, or run.</p>
+
+<p align="center"><a href="https://github.com/Klisuaiji">GitHub</a> · <a href="https://space.bilibili.com/626010975">Bilibili</a> · <a href="https://twitter.com/kulisaiji">X / Twitter</a></p>
 
 ---
 
-## 🔍 About Me
+## 🧩 What I Do
 
-```text
-> whoami
-  An indie game developer & Minecraft modder who enjoys
-  breaking things apart to see how they work — then
-  modding them back together, but funnier.
-```
+I'm an independent developer interested in the intersection of **games, Minecraft, AI, and creative tools**.
 
-- ⛏️ Deep into **Minecraft modding** (Forge / Fabric)
-- 🎮 Exploring **game engines** (Unity / Unreal / Godot) and **Java internals**
-- 💡 I love turning weird ideas into fun gameplay mechanics
-- 💬 Happy to chat about **Java optimization**, **MC cross-mod compatibility**, or **indie game design**
-- 📫 Reach me at: **kulisaiji@outlook.com**
+I enjoy taking an unusual idea, figuring out how it could work technically, and turning it into a usable project.
 
----
+- ⛏️ **Minecraft** — mods, datapacks, tooling, cross-loader development
+- 🤖 **AI × Tools** — AI skills, automation, creative workflows
+- 🌍 **Procedural Generation** — terrain, worlds, simulations and visualization
+- 🎮 **Game Development** — mechanics, prototypes and small experimental games
+- 🛠️ **Developer Tools** — tools that solve annoying problems instead of adding another abstraction
 
-## 🛠️ My Tech Stack
-
-<!-- Core languages -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</p>
-
-<!-- MC modding ecosystem -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft"/>
-  <img src="https://img.shields.io/badge/Forge-FF8B00?style=for-the-badge&logoColor=white&logo=forge" alt="Forge"/>
-  <img src="https://img.shields.io/badge/Fabric-1B1B1B?style=for-the-badge&logo=fabric&logoColor=white" alt="Fabric"/>
-</p>
-
-<!-- Game engines & tools -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot"/>
-  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
+> **Build strange things. Make them useful.**
 
 ---
 
-## 📊 GitHub Stats (a.k.a. how many bugs I've written)
+## 🚀 Selected Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=klisuaiji&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klisuaiji&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="165"/>
-</p>
+<table><tr><td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=klisuaiji&theme=radical&hide_border=true&ring=FF8B00&fire=FF8B00" alt="Contribution streak" height="165"/>
-</p>
+### 🎵 [RedstoneMusic-Skill](https://github.com/Klisuaiji/RedstoneMusic-Skill)
+
+**AI skill for turning music into Minecraft datapacks.**
+
+MIDI / NBS / text score → automatic arrangement → validation → playable datapack.
+
+- Vanilla Minecraft Java Edition
+- Zero external Python dependencies
+- Automatic arrangement & instrument mapping
+- Built-in validation and regression tests
+- Includes a reusable **Redstone Music Box** framework
+
+</td><td width="50%" valign="top">
+
+### 🦎 [Chameleon](https://github.com/Klisuaiji/chameleon)
+
+**A cross-platform Minecraft mod disabler.**
+
+Detects incompatible mods before they are loaded and safely moves them out of the active mods directory.
+
+- NeoForge / Fabric / Quilt
+- Windows / Linux / macOS / Android launchers
+- Regex & semantic-version rules
+- Client / server environment detection
+- Built-in recovery and logging
+
+</td></tr><tr><td width="50%" valign="top">
+
+### 🌍 [EarthEngine](https://github.com/Klisuaiji/earthengine)
+
+**Procedural spherical world generation.**
+
+A WorldEngine-based planet generator using spherical Voronoi plates, terrain diffusion and a multi-stage planet pipeline.
+
+- Spherical Voronoi tectonics
+- Terrain Diffusion
+- Climate & biome simulation
+- Civilization / habitability analysis
+- Interactive web generator
+
+</td><td width="50%" valign="top">
+
+### 🌈 [TeaseMeme](https://github.com/Klisuaiji/TeaseMeme)
+
+**A multi-platform Minecraft mod built with Architectury.**
+
+A small experimental mod focused on custom entities and gameplay ideas.
+
+- Fabric + NeoForge
+- Minecraft 1.21.1
+- Architectury
+- GeckoLib
+- English / Simplified Chinese
+
+</td></tr></table>
 
 ---
 
-## 🌐 Let's Connect!
+## 🧪 Currently Exploring
 
-<p align="center">
-  <!-- X (Twitter) account: @kulisaiji -->
-  <a href="https://twitter.com/kulisaiji" target="_blank">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
-  </a>
-  <!-- Bilibili -->
-  <a href="https://space.bilibili.com/626010975" target="_blank">
-    <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"/>
-  </a>
-  <!-- Outlook email -->
-  <a href="mailto:kulisaiji@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
-  </a>
-</p>
+- ⛏️ Minecraft modding & developer tooling
+- 🤖 AI Skills and creative automation
+- 🧊 Blender + AI-assisted 3D workflows
+- 🎮 Indie game development
+- 🌍 Procedural planet and terrain generation
 
 ---
 
-⭐ **Star my mod repos — your support keeps me going!**  
-🎯 **Have a nice day, and may your code compile on the first try!** 🚀
+## 🛠️ Tools I Use
+
+<p align="center"><img src="https://skillicons.dev/icons?i=java,python,cs,cpp,git,github,blender,unity,godot&perline=9" alt="Tools and languages"/></p>
+
+<p align="center"><img src="https://img.shields.io/badge/Minecraft-Development-62B47A?style=flat-square&logo=minecraft&logoColor=white" alt="Minecraft Development"/> <img src="https://img.shields.io/badge/NeoForge-Modding-E34F26?style=flat-square" alt="NeoForge"/> <img src="https://img.shields.io/badge/AI-Tools-8B5CF6?style=flat-square" alt="AI Tools"/> <img src="https://img.shields.io/badge/Procedural-Generation-0EA5E9?style=flat-square" alt="Procedural Generation"/></p>
+
+---
+
+## 📈 GitHub
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Klisuaiji&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&rank_icon=github" height="165" alt="GitHub stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klisuaiji&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e" height="165" alt="Top languages"/></p>
+
+---
+
+## 💬 Find Me
+
+<p align="center"><a href="https://space.bilibili.com/626010975"><img src="https://img.shields.io/badge/Bilibili-Profile-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili"/></a> <a href="https://twitter.com/kulisaiji"><img src="https://img.shields.io/badge/X-Profile-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a></p>
+
+<p align="center"><sub>Made with curiosity, too many ideas, and probably not enough sleep.</sub> 💤</p>
