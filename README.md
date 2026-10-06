@@ -5,7 +5,7 @@
 <p align="center"><strong>Indie Developer · Minecraft Modder · AI Tool Builder</strong></p>
 <p align="center">I build weird ideas into things you can actually play, use, or run.</p>
 
-<p align="center"><a href="https://github.com/Klisuaiji">GitHub</a> · <a href="https://space.bilibili.com/626010975">Bilibili</a> · <a href="https://twitter.com/kulisaiji">X / Twitter</a></p>
+<p align="center"><a href="https://github.com/Klisuaiji">GitHub</a> · <a href="https://space.bilibili.com/626010975">Bilibili</a> · <a href="https://x.com/KulisaijiOwO">X</a></p>
 
 ---
 
@@ -113,6 +113,6 @@ A small experimental mod focused on custom entities and gameplay ideas.
 
 ## 💬 Find Me
 
-<p align="center"><a href="https://space.bilibili.com/626010975"><img src="https://img.shields.io/badge/Bilibili-Profile-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili"/></a> <a href="https://twitter.com/kulisaiji"><img src="https://img.shields.io/badge/X-Profile-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a></p>
+<p align="center"><a href="https://space.bilibili.com/626010975"><img src="https://img.shields.io/badge/Bilibili-Profile-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili"/></a> <a href="https://x.com/KulisaijiOwO"><img src="https://img.shields.io/badge/X-Profile-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a> <a href="mailto:kulisaiji@outlook.com"><img src="https://img.shields.io/badge/Email-Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email"/></a></p>
 
 <p align="center"><sub>Made with curiosity, too many ideas, and probably not enough sleep.</sub> 💤</p>
