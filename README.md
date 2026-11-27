@@ -12,11 +12,6 @@
   Building ambitious Minecraft experiences, procedural worlds, developer tools, and experimental creative software.
 </p>
 
-<p align="center">
-  <a href="https://github.com/Klisuaiji">GitHub</a> ·
-  <a href="https://space.bilibili.com/626010975">Bilibili</a> ·
-  <a href="https://x.com/KulisaijiOwO">X</a>
-</p>
 
 ---
 
@@ -136,13 +131,6 @@ My work ranges from low-level mod architecture and cross-loader compatibility to
   <img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,cs,git,github,gradle,blender,unity,godot&perline=6" alt="Technologies and tools" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Minecraft-Modding-62B47A?style=flat-square&logo=minecraft&logoColor=white" alt="Minecraft Modding" />
-  <img src="https://img.shields.io/badge/Fabric-Development-DBD0B4?style=flat-square" alt="Fabric" />
-  <img src="https://img.shields.io/badge/NeoForge-Development-E34F26?style=flat-square" alt="NeoForge" />
-  <img src="https://img.shields.io/badge/GLSL-Rendering-5586A4?style=flat-square" alt="GLSL" />
-  <img src="https://img.shields.io/badge/Procedural-Generation-0EA5E9?style=flat-square" alt="Procedural Generation" />
-</p>
 
 ---
 
@@ -170,10 +158,6 @@ My work ranges from low-level mod architecture and cross-loader compatibility to
   </a>
 </p>
 
-<p align="center">
-  <strong>Email:</strong> <a href="mailto:kulisaiji@gmail.com">kulisaiji@gmail.com</a><br />
-  <strong>Discord:</strong> @kulisaiji
-</p>
 
 <p align="center">
   <sub>Made with curiosity, ambitious ideas, and a lot of iteration.</sub>
