@@ -161,9 +161,7 @@ My work ranges from low-level mod architecture and cross-loader compatibility to
   <a href="mailto:kulisaiji@gmail.com">
     <img src="https://img.shields.io/badge/Email-kulisaiji%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://discord.com/users/">
-    <img src="https://img.shields.io/badge/Discord-%40kulisaiji-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord @kulisaiji" />
-  </a>
+  <img src="https://img.shields.io/badge/Discord-%40kulisaiji-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord @kulisaiji" />
   <a href="https://space.bilibili.com/626010975">
     <img src="https://img.shields.io/badge/Bilibili-Profile-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili" />
   </a>
